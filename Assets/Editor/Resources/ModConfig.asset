@@ -18,6 +18,6 @@ MonoBehaviour:
 
 
     Module idea and implemtation by TasThing, made off of Duck, Duck, Goose by Blananas2'
-  version: 1.0
+  version: 1.0.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: a6de4c73454dd6441859334eb81de171, type: 3}
