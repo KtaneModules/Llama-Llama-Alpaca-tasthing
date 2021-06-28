@@ -14,10 +14,10 @@ MonoBehaviour:
   id: llamaLlamaAlpaca
   title: Llama, Llama, Alpaca
   author: 
-  description: 'We never did find out how the orange slayed the rake.
-
-
-    Module idea and implemtation by TasThing, made off of Duck, Duck, Goose by Blananas2'
+  description: "We never did find out how the orange slayed the rake.\r\n\r\nModule
+    idea and implemtation by TasThing, made off of Duck, Duck, Goose by Blananas2\r\n\r\nManual
+    HTML: https://ktane.timwi.de/HTML/Llama,%20Llama,%20Alpaca.html\r\nManual PDF:
+    https://ktane.timwi.de/PDF/Llama%2C%20Llama%2C%20Alpaca.pdf"
   version: 1.0.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: a6de4c73454dd6441859334eb81de171, type: 3}
