@@ -92,6 +92,7 @@ public class llamaLlamaAlpaca : MonoBehaviour
         {
             Debug.LogFormat("[Llama, Llama, Alpaca #{0}] That was not correct. Strike!", moduleId);
             module.HandleStrike();
+            module.HandlePass();
         }
         else
         {
